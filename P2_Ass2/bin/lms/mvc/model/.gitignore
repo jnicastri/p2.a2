@@ -1,0 +1,15 @@
+/AbstractHolding.class
+/AbstractMember.class
+/Book.class
+/Borrower.class
+/BorrowingHistory.class
+/HistoryRecord.class
+/Holding.class
+/LMSFacade.class
+/LMSModel.class
+/Library.class
+/LibraryCollection.class
+/Member.class
+/PremiumMember.class
+/StandardMember.class
+/Video.class
